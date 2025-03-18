@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Employee>
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+@foreach(var emp in Model)
+{
+    <h1>@emp.empId</h1>
+    <h2>@emp.empName</h2>
+    <h3>@emp.empAge</h3>
+    <h3>@emp.empNumber</h3>
+    <h4>@emp.empDepartment</h4>
+    <a asp-controller="Employee" asp-action="Edit" asp-route-id="@emp.empId">Edit</a>
+    <a asp-controller="Employee" asp-action="Delete" asp-route-id="@emp.empId">Delete</a>
+}
+
+
+
