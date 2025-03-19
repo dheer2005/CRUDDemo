@@ -1,36 +1,56 @@
-﻿using CRUDDemo.Interfaces;
+﻿
+using CRUDDemo.Interfaces;
 using CRUDDemo.Models;
 using CRUDDemo.ViewModels;
-using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using NToastNotify;
 
 namespace CRUDDemo.Controllers
 {
+
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class EmployeeController : Controller
     {
         private readonly IEmployeeService _employeeService;
-        public EmployeeController(IEmployeeService employeeService)
+        private readonly IToastNotification _toasty;
+
+        public EmployeeController(IEmployeeService employeeService, IToastNotification toasty)
         {
             _employeeService = employeeService;
+            _toasty = toasty;
         }
 
 
-        [HttpGet("[action]")]
+        [HttpGet]
         public ViewResult Index() 
         {
             var emp = _employeeService.GetAllEmployeeDetails();
             return View(emp);
         }
 
-        //[HttpGet("{id}")]
-        //public ViewResult GetById(int id)
-        //{
-        //    var emp = _employeeService.GetEmployeeDetail(id);
-        //    return View(emp);
-        //}
+        [HttpGet("{id}")]
+        public IActionResult EmployeeView(int id)
+        {
+            var emp = _employeeService.GetEmployeeDetail(id);
+            EmployeeViewModel employeeViewModel = new();
+            if (emp != null)
+            {
+                employeeViewModel = new EmployeeViewModel()
+                {
+                    Id = emp.empId,
+                    empName = emp.empName,
+                    empAge = emp.empAge,
+                    empNumber = emp.empNumber,
+                    empDepartment = emp.empDepartment,
+                };
+            }
+
+            return View(employeeViewModel);
+            
+        }
 
         [HttpGet("[action]")]
         public ViewResult Create()
@@ -57,6 +77,7 @@ namespace CRUDDemo.Controllers
 
 
                 Employee newEm = _employeeService.AddEmployee(newEmp);
+                _toasty.AddSuccessToastMessage("Employee Created Successfully");
                 return RedirectToAction("Index", new {id = newEm.empId});
             }
             return View();
@@ -80,26 +101,26 @@ namespace CRUDDemo.Controllers
                     empDepartment = emp.empDepartment,
                 };
             }
-            
             return View(employeeEditViewModel);
         }
 
 
 
 
-        [HttpPut("[action]")]
-        public IActionResult Edit([FromForm]EmployeeEditViewModel model)
+        [HttpPost("[action]/{id}")]
+        public IActionResult Edit([FromForm]EmployeeEditViewModel model, int id)
         {
             if (ModelState.IsValid)
             {
-                Employee employee = _employeeService.GetEmployeeDetail(model.Id);
+                Employee employee = _employeeService.GetEmployeeDetail(id);
+                employee.empId = id;    
                 employee.empName = model.empName;
                 employee.empAge = model.empAge;
                 employee.empNumber = model.empNumber;
                 employee.empDepartment = model.empDepartment;
 
                 _employeeService.UpdateEmployee(employee);
-
+                _toasty.AddSuccessToastMessage("Successfully edited");
                 return RedirectToAction("Index");
 
             }
@@ -107,14 +128,37 @@ namespace CRUDDemo.Controllers
         }
 
 
-
-
-
-        [HttpDelete("{id}")]
-        public ViewResult Delete(int id) 
+        [HttpGet("[action]/{id}")]
+        public ViewResult DeletePage(int id)
         {
-            var isDeleted = _employeeService.DeleteEmployee(id);
-            return View(isDeleted);
+            var emp = _employeeService.GetEmployeeDetail(id);
+            EmployeeDeleteViewModel employeeCreateViewModel = new();
+            if (emp != null)
+            {
+                employeeCreateViewModel = new EmployeeDeleteViewModel()
+                {
+                    Id = emp.empId,
+                    empName = emp.empName,
+                    empAge = emp.empAge,
+                    empNumber = emp.empNumber,
+                    empDepartment = emp.empDepartment,
+                };
+            }
+            return View(employeeCreateViewModel);  
+        }
+
+
+        [HttpPost("[action]/{id}")]
+        public IActionResult Delete(int id) 
+        {
+            
+            var res = _employeeService.DeleteEmployee(id);
+            if (res)
+            {
+                _toasty.AddSuccessToastMessage("Employee Deleted Successfully");
+                return RedirectToAction("Index");
+            }
+            return NotFound();
         }
     }
 }

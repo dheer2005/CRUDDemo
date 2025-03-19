@@ -1,21 +1,39 @@
 ﻿@model IEnumerable<Employee>
 
 
-@{
-    ViewData["Title"] = "Index";
-}
-
-
+<div class="row row-cols-3 d-flex justify-content-center mt-3 border-1">
 @foreach(var emp in Model)
 {
-    <h1>@emp.empId</h1>
+    @* <h1>@emp.empId</h1>
     <h2>@emp.empName</h2>
     <h3>@emp.empAge</h3>
     <h3>@emp.empNumber</h3>
     <h4>@emp.empDepartment</h4>
     <a asp-controller="Employee" asp-action="Edit" asp-route-id="@emp.empId">Edit</a>
-    <a asp-controller="Employee" asp-action="Delete" asp-route-id="@emp.empId">Delete</a>
+    <a asp-controller="Employee" asp-action="DeletePage" asp-route-id="@emp.empId" >Delete</a> *@
+
+    
+        <div class="col-lg-3 ms-3 me-3 mb-3">
+            <div class="card text-center">
+                <div class="card-header">
+                    @emp.empName
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">@emp.empDepartment</h5>
+                    <p class="card-text">Mobile Number: @emp.empNumber</p>
+                    <p class="card-text">Age: @emp.empAge</p>
+                    <p class="card-text">Department: @emp.empDepartment </p>
+                </div>
+                <div class="card-footer text-body-secondary">
+                    <a class="btn btn-primary" asp-controller="Employee" asp-action="EmployeeView" asp-route-id="@emp.empId">View</a>
+                    <a class="btn btn-primary" asp-controller="Employee" asp-action="Edit" asp-route-id="@emp.empId">Edit</a>
+                    <a class="btn btn-danger" asp-controller="Employee" asp-action="DeletePage" asp-route-id="@emp.empId">Delete</a>
+                </div>
+            </div>
+        </div>
+    
 }
+</div>
 
 
 

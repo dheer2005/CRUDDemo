@@ -1,0 +1,26 @@
+﻿@model EmployeeViewModel
+
+@{
+    ViewData["Title"] = "Employee Details";
+}
+
+
+<div class="row row-cols-3 d-flex justify-content-center mt-3 border-1">
+<div class="col-lg-3 ms-3 me-3 mb-3">
+    <div class="card text-center">
+        <div class="card-header">
+            @Model.empName
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">@Model.empDepartment</h5>
+                <p class="card-text">Mobile Number: @Model.empNumber</p>
+                <p class="card-text">Age: @Model.empAge</p>
+                <p class="card-text">Department: @Model.empDepartment </p>
+        </div>
+        <div class="card-footer text-body-secondary">
+                <a class="btn btn-primary" asp-controller="Employee" asp-action="Index" >Back</a>
+                <a class="btn btn-primary" asp-controller="Employee" asp-action="Edit" asp-route-id="@Model.Id">Edit</a>
+                <a class="btn btn-danger" asp-controller="Employee" asp-action="DeletePage" asp-route-id="@Model.Id">Delete</a>
+        </div>
+    </div>
+   </div>

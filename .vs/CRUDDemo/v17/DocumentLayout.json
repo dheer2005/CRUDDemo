@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,76 +27,34 @@
       "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\views\\employee\\deletepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:views\\employee\\deletepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\viewmodels\\employeeeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:viewmodels\\employeeeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\viewmodels\\employeecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:viewmodels\\employeecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\views\\employee\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:views\\employee\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentfiles\\any\\net6.0\\wwwroot\\noty.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\cruddemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:cruddemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\source\\repos\\cruddemo\\migrations\\20250317061954_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|solutionrelative:migrations\\20250317061954_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41BFC0F0-230E-48F7-B9AD-BC426BDE1DBB}|CRUDDemo.csproj|c:\\users\\dhire\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentfiles\\any\\net6.0\\wwwroot\\toastr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -119,255 +93,184 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAFYAAAAAAAAAAAAtwFkAAAAbAAAA",
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs*",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs*",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAIwH8AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T05:36:43.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Interfaces\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IEmployeeService.cs",
-              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Interfaces\\IEmployeeService.cs",
-              "RelativeToolTip": "Interfaces\\IEmployeeService.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAlwAkAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T05:57:08.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Services\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Services\\EmployeeService.cs",
-              "RelativeToolTip": "Services\\EmployeeService.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA4AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T06:02:35.14Z",
+              "WhenOpened": "2025-03-19T09:39:04.193Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\Employee\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Employee\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\Employee\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Employee\\Delete.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T10:40:51.19Z",
+              "WhenOpened": "2025-03-19T09:38:19.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T09:24:44.737Z",
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwCAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:37:57.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:35:30.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T10:56:56.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmployeeEditViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\ViewModels\\EmployeeEditViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\EmployeeEditViewModel.cs",
-              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\ViewModels\\EmployeeEditViewModel.cs",
-              "RelativeToolTip": "ViewModels\\EmployeeEditViewModel.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAUwAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T05:58:31.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EmployeeCreateViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\ViewModels\\EmployeeCreateViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\EmployeeCreateViewModel.cs",
-              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\ViewModels\\EmployeeCreateViewModel.cs",
-              "RelativeToolTip": "ViewModels\\EmployeeCreateViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T05:53:27.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\Employee\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Employee\\Create.cshtml",
-              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\Employee\\Create.cshtml",
-              "RelativeToolTip": "Views\\Employee\\Create.cshtml",
-              "ViewState": "AQIAABwAAAAAAAAAAAAIwDIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T10:42:22.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Models\\Employee.cs",
-              "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T05:46:51.563Z",
+              "WhenOpened": "2025-03-19T09:26:41.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\Employee\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Employee\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\Employee\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Employee\\Edit.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAwAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T10:44:40.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T07:29:15.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "libman.json",
-              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\libman.json",
-              "RelativeDocumentMoniker": "libman.json",
-              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\libman.json",
-              "RelativeToolTip": "libman.json",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-17T07:26:37.302Z",
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAJoWAAAAAAAAAAAAwLUWAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-19T08:20:23.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "toastr.js",
+              "DocumentMoniker": "C:\\Users\\dhire\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+              "ToolTip": "C:\\Users\\dhire\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-19T08:08:47.55Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "noty.js",
+              "DocumentMoniker": "C:\\Users\\dhire\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+              "ToolTip": "C:\\Users\\dhire\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAAAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-19T08:08:45.373Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:53:47.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T09:13:02.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T09:24:15.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeletePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\Employee\\DeletePage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\DeletePage.cshtml",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\Employee\\DeletePage.cshtml",
+              "RelativeToolTip": "Views\\Employee\\DeletePage.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T09:27:02.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAADUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T07:59:10.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwE8AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T05:38:33.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GetByID.cshtml",
-              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\Employee\\GetByID.cshtml",
-              "RelativeDocumentMoniker": "Views\\Employee\\GetByID.cshtml",
-              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\Employee\\GetByID.cshtml",
-              "RelativeToolTip": "Views\\Employee\\GetByID.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T10:31:23.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "EmployeeDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Models\\EmployeeDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\EmployeeDbContext.cs",
-              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Models\\EmployeeDbContext.cs",
-              "RelativeToolTip": "Models\\EmployeeDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T06:02:51.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CRUDDemo.http",
-              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\CRUDDemo.http",
-              "RelativeDocumentMoniker": "CRUDDemo.http",
-              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\CRUDDemo.http",
-              "RelativeToolTip": "CRUDDemo.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-03-17T09:16:20.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T07:29:26.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20250317061954_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Migrations\\20250317061954_Initial.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250317061954_Initial.cs",
-              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\Migrations\\20250317061954_Initial.cs",
-              "RelativeToolTip": "Migrations\\20250317061954_Initial.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwA4AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T06:19:54.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\dhire\\source\\repos\\CRUDDemo\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-17T06:12:39.107Z"
+              "WhenOpened": "2025-03-19T07:52:41.626Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,4 +1,5 @@
-﻿using CRUDDemo.Interfaces;
+﻿using CRUDDemo.Areas.Identity.Data;
+using CRUDDemo.Interfaces;
 using CRUDDemo.Models;
 
 namespace CRUDDemo.Services
